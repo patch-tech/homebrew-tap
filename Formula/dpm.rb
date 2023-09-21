@@ -3,8 +3,8 @@ class Dpm < Formula
   homepage "https://www.dpm.sh/"
   license "MIT"
   url "https://github.com/patch-tech/dpm.git",
-    tag: "v0.3.0",
-    revision: "1bd20b948e34a0d1aa3fc7340798ebb81e0068e0"
+    tag: "v0.4.0",
+    revision: "f53fad0995c0ffa66c2d57b9045775dedc3580e9"
   head "https://github.com/patch-tech/dpm.git",
     branch: "main"
 
